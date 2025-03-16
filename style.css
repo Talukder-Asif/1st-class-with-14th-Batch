@@ -1,0 +1,17 @@
+h1 {
+  font-size: 40px;
+  color: green;
+}
+
+#rochona1 {
+  font-size: 60px;
+  color: blue;
+  text-align: center;
+}
+
+.primary_text {
+  text-align: justify;
+  color: tomato;
+  font-size: 25px;
+  font-weight: 500;
+}
